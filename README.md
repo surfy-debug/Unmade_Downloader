@@ -98,6 +98,6 @@ to their own respective licenses and copyright terms.
 Copyright © 2026 Surfypolecat47.
 All Rights Reserved.
 
-UNMADE Downloader VERSION 1.0
+UNMADE Downloader VERSION 2.0
 Developer: Surfypolecat47
 Copyright © 2026
